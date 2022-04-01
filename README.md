@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @RejownAhmed
 - 👀 I’m interested in Web Development and always learning new things. I just love to code.
-- 🌱 I’m currently learning Javascript as my major. Before I learnt object oriented PHP.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on full stack web development
 - 📫 You can easily contact me through an Email. And my mail address is rejownahmed@yahoo.com
 

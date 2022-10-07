@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RejownAhmed/myProfile/main/Takehiro%20Futuristic%20Navy%20and%20Yellow%20LinkedIn%20Banner%20(1).png">
+<img src="https://raw.githubusercontent.com/RejownAhmed/myProfile/main/banner.png">
 
 - 👋 Hi, I’m @RejownAhmed
 - 👀 I’m interested in Web Development and always learning new things. I just love to code.

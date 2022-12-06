@@ -10,15 +10,16 @@
    currently I'm not into it. However, sometimes I pass my time designing logos, maybe a business card or banners either for me or clients.
    
 # Contact Details
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rejowan-ahmed-zisan/) [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18366671) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/rejowan.official) [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/rejowan.ahmed.zisan/)
+[<img src='https://raw.githubusercontent.com/RejownAhmed/myProfile/main/badge.svg' alt='WebMakersBD' height='40'>](https://webmakersbd.com)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rejowan-ahmed-zisan/) [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18366671) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/rejowan.official) 
 
-[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='40'>](https://dev.to/rejownahmed) [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/rejowan-ahmed-zisan) [<img src='https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white' alt='codesandbox' height='40'>](https://codesandbox.io/u/RejownAhmed) [<img src='https://raw.githubusercontent.com/RejownAhmed/myProfile/main/badge.svg' alt='WebMakersBD' height='40'>](https://webmakersbd.com)  
+[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='40'>](https://dev.to/rejownahmed) [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/rejowan-ahmed-zisan) [<img src='https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white' alt='codesandbox' height='40'>](https://codesandbox.io/u/RejownAhmed) [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/rejowan.ahmed.zisan/)
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RejownAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Streak Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)  
+# Github Stats
+![Rejown's GitHub stats](https://github-readme-stats.vercel.app/api?username=RejownAhmed&show_icons=true&bg_color=30,008C00,A4E800&title_color=fff&text_color=fff&icon_color=fff&hide=prs)
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed)](https://github.com/anuraghazra/github-readme-stats) 
+# Top Languages & Others
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)  

@@ -9,15 +9,16 @@
 🦾I have some extra skills. I am a certified graphics designer too. But since my passion is to code, 
    currently I'm not into it. However, sometimes I pass my time designing logos, maybe a business card or banners either for me or clients.
    
-# Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RejownAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 # Contact Details
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rejowan-ahmed-zisan/) [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18366671) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/rejowan.official) [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/rejowan.ahmed.zisan/)
 
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='40'>](https://dev.to/rejownahmed) [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='40'>](https://codepen.io/rejowan-ahmed-zisan) [<img src='https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white' alt='codesandbox' height='40'>](https://codesandbox.io/u/RejownAhmed) [<img src='https://raw.githubusercontent.com/RejownAhmed/myProfile/main/badge.svg' alt='WebMakersBD' height='40'>](https://webmakersbd.com)  
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed)](https://github.com/anuraghazra/github-readme-stats)
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=RejownAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Other Details
+# Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)  
+
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed)](https://github.com/anuraghazra/github-readme-stats) 

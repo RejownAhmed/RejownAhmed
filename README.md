@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on full stack web development
 - 📫 You can easily contact me through an Email. And my mail address is rejownahmedzisan@gmail.com
 
-🦾I have some extra skills. I am a certified graphics designer too. But since my passion is to code, 
-   currently I'm not into it. However, sometimes I pass my time designing logos, maybe a business card or banners either for me or clients.
+🦾 I have some extra skills. I am a certified graphics designer. Sometimes, I pass my time designing and thinking innovative ideas about UI/UX, logos, banners etc.
    
+[![](https://visitcount.itsvg.in/api?id=rejownAhmed&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in) 
 # Contact Details
 [<img src='https://raw.githubusercontent.com/RejownAhmed/myProfile/main/badge.svg' alt='WebMakersBD' height='40'>](https://webmakersbd.com)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rejowan-ahmed-zisan/) [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18366671) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/rejowan.official) 
 

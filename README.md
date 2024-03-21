@@ -17,9 +17,6 @@
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RejownAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Github Stats
-![Rejown's GitHub stats](https://github-readme-stats.vercel.app/api?username=RejownAhmed&show_icons=true&bg_color=30,008C00,A4E800&title_color=fff&text_color=fff&icon_color=fff&hide=prs)
-
 # Top Languages & Others
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)  

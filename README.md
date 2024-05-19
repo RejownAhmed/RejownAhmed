@@ -18,5 +18,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RejownAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Top Languages & Others
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)  

@@ -19,4 +19,4 @@
 
 # Top Languages & Others
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RejownAhmed&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RejownAhmed) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RejownAhmed)
